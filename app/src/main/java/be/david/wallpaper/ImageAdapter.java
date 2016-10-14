@@ -21,15 +21,15 @@ public class ImageAdapter extends BaseAdapter {
             R.mipmap.ffxiv_spw16001_1440x1280_en,
             R.mipmap.ffxiv_spw17001_1440x1280_en,
             R.mipmap.ffxiv_spw19002_1440x1280_en,
-            R.mipmap.ffxiv_spw19001_1440x1280_en,
-            R.mipmap.ffxiv_spw20001_1440x1280_en,
-            R.mipmap.ffxiv_spw23002_1440x1280,
-            R.mipmap.ffxiv_spw23003_1440x1280,
-            R.mipmap.ffxiv_spw23004_1440x1280,
-            R.mipmap.ffxiv_spw24002_1440x1280,
-            R.mipmap.ffxiv_spw25001_1440x1280,
-            R.mipmap.ffxiv_spw26002_1440x1280,
-            R.mipmap.ffxiv_spw27001_2880x2560
+            R.mipmap.ffxiv_spw19001_1440x1280_en
+//            R.mipmap.ffxiv_spw20001_1440x1280_en,
+//            R.mipmap.ffxiv_spw23002_1440x1280,
+//            R.mipmap.ffxiv_spw23003_1440x1280,
+//            R.mipmap.ffxiv_spw23004_1440x1280,
+//            R.mipmap.ffxiv_spw24002_1440x1280,
+//            R.mipmap.ffxiv_spw25001_1440x1280,
+//            R.mipmap.ffxiv_spw26002_1440x1280,
+//            R.mipmap.ffxiv_spw27001_2880x2560
     };
 
     private Context context;
